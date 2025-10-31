@@ -34,6 +34,7 @@
 
 ## ⚙️ Параметры сервера
 
+- ОС: Ubuntu 24.04.3 LTS x86_64
 - CPU - Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
 - RAM - 4 x 8 GiB DIMM DDR3 Synchronous 1600 MHz (0,6 ns)
 - GPU - NVIDIA Corporation GK208B [GeForce GT 710] без поддержки CUDA
